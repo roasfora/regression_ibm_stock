@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/0badacf189fb400085f154716627f1b3/artifacts
+end_time: 1745401217989
+entry_point_name: ''
+experiment_id: '178260344720623068'
+lifecycle_stage: active
+run_id: 0badacf189fb400085f154716627f1b3
+run_name: LinearRegression
+run_uuid: 0badacf189fb400085f154716627f1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745401211122
+status: 3
+tags: []
+user_id: isabe

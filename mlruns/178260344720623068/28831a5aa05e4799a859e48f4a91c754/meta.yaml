@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/28831a5aa05e4799a859e48f4a91c754/artifacts
+end_time: 1745400677072
+entry_point_name: ''
+experiment_id: '178260344720623068'
+lifecycle_stage: active
+run_id: 28831a5aa05e4799a859e48f4a91c754
+run_name: amazing-goat-805
+run_uuid: 28831a5aa05e4799a859e48f4a91c754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745400670524
+status: 3
+tags: []
+user_id: isabe

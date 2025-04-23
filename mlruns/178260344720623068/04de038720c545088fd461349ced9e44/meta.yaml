@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/04de038720c545088fd461349ced9e44/artifacts
+end_time: 1745401235386
+entry_point_name: ''
+experiment_id: '178260344720623068'
+lifecycle_stage: active
+run_id: 04de038720c545088fd461349ced9e44
+run_name: XGBoost
+run_uuid: 04de038720c545088fd461349ced9e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745401230667
+status: 3
+tags: []
+user_id: isabe

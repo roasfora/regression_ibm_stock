@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/7d2db5da28bf402586a0ab4deb738b69/artifacts
+end_time: 1745401230653
+entry_point_name: ''
+experiment_id: '178260344720623068'
+lifecycle_stage: active
+run_id: 7d2db5da28bf402586a0ab4deb738b69
+run_name: Ridge
+run_uuid: 7d2db5da28bf402586a0ab4deb738b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745401226210
+status: 3
+tags: []
+user_id: isabe

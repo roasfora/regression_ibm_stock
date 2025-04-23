@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/3e827ca6edd84364b1ea3a1668e7aa50/artifacts
+end_time: 1745401226191
+entry_point_name: ''
+experiment_id: '178260344720623068'
+lifecycle_stage: active
+run_id: 3e827ca6edd84364b1ea3a1668e7aa50
+run_name: RandomForest
+run_uuid: 3e827ca6edd84364b1ea3a1668e7aa50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745401218012
+status: 3
+tags: []
+user_id: isabe

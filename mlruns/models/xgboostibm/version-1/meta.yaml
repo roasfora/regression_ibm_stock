@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745401858429
+current_stage: None
+description: ''
+last_updated_timestamp: 1745401858429
+name: xgboostibm
+run_id: 04de038720c545088fd461349ced9e44
+run_link: ''
+source: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/04de038720c545088fd461349ced9e44/artifacts/modelo
+status: READY
+status_message: null
+storage_location: file:///C:/Users/isabe/Desktop/EDIT/EDIT/Data%20Engineering/project_regression_ibm/mlruns/178260344720623068/04de038720c545088fd461349ced9e44/artifacts/modelo
+user_id: null
+version: 1
